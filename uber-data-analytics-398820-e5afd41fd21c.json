@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "uber-data-analytics-398820",
+  "private_key_id": "e5afd41fd21c755f9abbe3bc5a5b8844bf409c43",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDPhgsuAyaYCmJq\nGLqaMsVy2WZhvRCkh0iChdUcc/tnl8cWfsK+KTnRwQbNJN13LFxYUAxiWKZW1Zos\nakZkaDFeMJsC4ob5dxSiuTyh5Lts+ZItvlUch19d0EDNzzrtS5YuCQJK8S5ZsLLV\naci2DINPUFfmzAbvYIOmZUVbJNC7GFTYBcZBeC79bO0VXMX2w0FMUkW9R9jrw1Dw\nMbtnMuW9yhJoJHMhjJ1Y5cOBrN40FpBFdSGVqvxIEvSPDBbrZ5KTH41edlBh7EBA\nP3YFf4N0aaAVP4s5XDIBEmWepg5H53JYCx6C6lekujDsYQgerS0OZO5DXv/XKJ+L\n9phqsYx/AgMBAAECggEAXYSk9hvCYSLQ3cn+EW4Oz6ZLvoDihppWYUdpVbSolzLt\nK2R9Yw+V+EHZzEmwKbvKc5vDMPCNKTWCEEDmLupLUQxrVn354GK64GfEfJpkogPH\nzahnl38jyVWHVpfsELKO33j82QPd5No9hPHyWqPB6tSkgCPyfh5KxYn+mse47o6F\nEphIE+NXG2NfOGF+/xSbH0Zn/V5CAFKK6TQwjDMe7OrUIc00j5w+eTM1kIpAlz1j\nLq5HrxnPE7LlfILMa1J36nuIon+HVv8HkI1Mnmq6H+gd9m05Zz8aqaP2dhe9SQ7e\nMehVGSMjXERAts3AqkFPFmIKGR/LD/YjMzfRJnG6VQKBgQDu1kahMNU2V4EQGGmA\n6U5M9ZIs64SZu8ouwz2UngjbAGhMINmXvB9T3Iydn4voqkvg42L8jRQGGNtZsAOU\nVTNFiqQuF6MQpCRlR0ZoZipiP+g29WRBuszqfvUkREhcDUV8Y9hUPrIXd7j/PN8b\nEIPD2lOUNuyxwjLXqVaN7P3N2wKBgQDeb7dPx6+3wa9+P2XyG0yIgioXwVJKELCF\n38xCNVdHoPCK230GZEV6XIamJLOWhLMMPET/VAhjB62EDZ4a7HHF7qSHA/DHQi/4\n1EXxO3+vfKGATFyHv8P8lDHkqPHz1v3DPRjZx0IN6h25slRMGelgZjUahL5f9Snm\nnFS0AKgnLQKBgEhk6OnJHIepRHS1gZ1SmqpXMWSuSvYyZtl/0rWupW6ElBinSG1m\n13QbAQByMP1oSTG0mveEZ9JlTG/GG3+lx7HHkXZrMcFEj8enMB9LAIPhbSjjfu0x\nixV1QCcrD2ffmfVXamY2ztKwNoIfWF0ix13hWr4tW9eRzslyCcthT5lLAoGADsf3\ns3p+h8R8J/SIjr0Xqd6Uc32qPTe8szi69w9aXG0qbt/FAB67qzTo0bOQp4jr6P08\nTIdGA2aoNiU9g2aA7Pk9v6cYYfVZAL0CZNRiWMP8a20nnPG2UVt7sUk0wtJfjJDL\nzPT7w7byALwD9AaoxnokPz3g9Lly7lsnGcsNYYUCgYA6iXhvMYzb/5WCcJBgay4O\nz0ZvdI23VWLVa9fWw6X+Wj8SkrGq/oIXi4TE6x54P/DT2ZrGtoweidt1pTYvSbSA\nKZGW+XSChoHfqwh1rbCJC0UVB4TR+Jqr+s9tjqh2DuUo7AwGWZdHByDJLu7JVYK9\njbGnahREPGnQqg80k2Dtqw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "uber-dataengineering-project@uber-data-analytics-398820.iam.gserviceaccount.com",
+  "client_id": "101505360119588630389",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/uber-dataengineering-project%40uber-data-analytics-398820.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
